@@ -1,6 +1,6 @@
 # Repo1
 
-## New heading
+## heading 2
 
 ### Heading 3
 
